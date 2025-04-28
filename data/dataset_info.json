@@ -1,0 +1,237 @@
+{
+  "optimus3_sft_vqa": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/sft/vqa/20250427_optimus3_dataset_vqa_sft_train_40k.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_sft_caption": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/sft/vqa/20250427_optimus3_dataset_caption_sft_40k.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_sft_qa": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/sft/qa/mc_background_dataset_optimus3_248597.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_sft_qa_small": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/sft/qa/20250426_optimus3_qa_dataset_48597.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_sft_plan": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/sft/plan/optimus3_dataset_plan_SFT_20250427.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_sft_grounding": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/sft/grounding/20250424_grounding_sft_train_26730.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_coldstart_grounding": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/coldstart/grounding/20250427_optimus3_dataset_grounding_object_train_17763.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_sft_mob_grounding": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/20240422_new_grounding_mobs_train_debug.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_text_dataset": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/sft/20250426_optimus3_plan_qa_58660.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_coldstart_grounding_vqa_reflection": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/coldstart/20250426_coldstart_grounding_reflection_vqa.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_coldstart_plan": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/coldstart/plan/optimus3_dataset_plan_r1_20250427.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_coldstart_reflection": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/coldstart/reflection/optimus3_dataset_reflection_coldstart_r1_20250418.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_coldstart_caption": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/coldstart/vqa/20250427_optimus3_dataset_caption_coldstart_r1_10k.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_coldstart_vqa": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/coldstart/vqa/20250426_optimus3_dataset_perception_coldstart_r1_14350.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  },
+  "optimus3_test": {
+    "file_name": "/data7/Users/xyq/developer/MinecraftOptimus/datas/Optimus3/test.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "task": "task",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "user",
+      "assistant_tag": "assistant",
+      "system_tag": "system"
+    }
+  }
+}
